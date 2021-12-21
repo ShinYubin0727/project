@@ -34,7 +34,7 @@
 <br/>
 
 # <뮤지컬 가격><br/>
-뮤지컬 가격을 이용하여 curve fitting
+뮤지컬 가격을 이용하여 curve fitting<br/>
 ![curve fit](https://user-images.githubusercontent.com/91188835/146874890-54ff0642-f6a4-4bd6-b4c4-1a3c853005e6.png)
 <br/>
 
